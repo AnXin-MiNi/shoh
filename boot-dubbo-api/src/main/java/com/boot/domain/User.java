@@ -2,6 +2,7 @@ package com.boot.domain;
 
 public class User {
     private  int a;
+    private  int b;
     private Integer id;
     private String name;
     private String password;
